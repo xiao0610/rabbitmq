@@ -13,7 +13,7 @@ public class mqHandler {
     @RabbitHandler
     public void rabbitHandler(String message) {
         //第二次冲突
-        //第二次冲突999
+        //第二次冲突888
         System.out.println(message);
         System.out.println(message);
         System.out.println(message);
