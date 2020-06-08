@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 public class mqHandler {
     @RabbitHandler
     public void rabbitHandler(String message) {
-        //第二次冲突
+        //第二次冲突333
         System.out.println(message);
         System.out.println(message);
         System.out.println(message);
