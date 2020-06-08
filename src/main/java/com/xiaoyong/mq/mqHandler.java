@@ -18,5 +18,6 @@ public class mqHandler {
         System.out.println(message);
         System.out.println(message);
         //创建冲突2222
+        //创建冲突11111
     }
 }
