@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 public class mqHandler {
     @RabbitHandler
     public void rabbitHandler(String message) {
-        //创建冲突55
+        //创建冲突45
         System.out.println(message);
         System.out.println(message);
         System.out.println(message);
