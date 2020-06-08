@@ -17,5 +17,6 @@ public class mqHandler {
         System.out.println(message);
         System.out.println(message);
         System.out.println(message);
+        //创建冲突
     }
 }
