@@ -13,5 +13,8 @@ public class mqHandler {
     @RabbitHandler
     public void rabbitHandler(String message) {
         System.out.println(message);
+        System.out.println(message);
+        System.out.println(message);
+        System.out.println(message);
     }
 }
